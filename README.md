@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Backend & AI
+### 🚀 Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
@@ -28,6 +28,5 @@
 ### ☁ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoft-azure)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-111111?style=for-the-badge&logo=amazon-s3)
 ![NGINX](https://img.shields.io/badge/NGINX-111111?style=for-the-badge&logo=nginx)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
